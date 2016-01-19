@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stackoverflow_20203</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="reload_button">reload</string>
+</resources>
